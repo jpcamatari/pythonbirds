@@ -1,2 +1,5 @@
 class Pessoa:
-    pass
+    def cumprimentar(self):
+        return 'olá mundo'
+
+
